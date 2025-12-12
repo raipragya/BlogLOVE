@@ -66,7 +66,8 @@ Logged-in admin users get:
 
 ---
 
-#**6. Responsive & Modern UI (Flowbite + Tailwind)**
+
+# **6. Responsive & Modern UI (Flowbite + Tailwind)**
 
 * Clean interface using Flowbite components
 * Mobile-friendly design
