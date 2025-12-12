@@ -8,7 +8,6 @@ BlogLove is a modern, full-stack personal blogging platform built with real-worl
 
 * Secure login and signup using **JWT**
 * Password hashing for security
-* **Google OAuth** (optional)
 * Persistent login state using **Redux Toolkit**
 * Role-based access:
 
