@@ -81,7 +81,6 @@ Logged-in admin users get:
 * **Express.js** → API endpoints
 * **React** → Frontend and UI/UX
 * **Node.js** → Server
-* **Firebase Storage** → Image hosting
 * **Redux** → Auth state management
 
 ---
