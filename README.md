@@ -127,7 +127,7 @@ This ensures real-world security.
 * Intuitive structure for reading posts
 
 ---
-# **12. AI support
+# **12. AI support**
  * for getting catchy blog titles
  * getting help with blog outline to start with
  * fix grammatical errors
