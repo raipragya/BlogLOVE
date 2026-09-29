@@ -132,27 +132,7 @@ This ensures real-world security.
  * getting help with blog outline to start with
  * fix grammatical errors
 ---   
-# **Purpose Behind BlogLove**
 
-I built **BlogLove** because:
 
-### 1. I wanted a platform to share my knowledge, ideas, and personal experiences
-
-BlogLove focuses on personal finance, lifestyle, and perception — topics many people relate to.
-
----
-
-### 2. To create a real blog that I can continue using
-
-BlogLove is not "just a project" —
-It is a **real blogging platform for my personal content.**
-
-You can continue writing posts, documenting your journey, or sharing insights.
-
----
-
-**BlogLove is proof that I can design, develop, and deploy a full, production-ready MERN stack web application**
-
----
 
 
